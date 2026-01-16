@@ -7,7 +7,8 @@ from chains.scoring import score_answer
 from chains.state import InterviewState
 from chains.feedback import generate_feedback
 from fastapi import UploadFile, File
-from audio.stt import speech_to_text
+from audio.stt_hf import speech_to_text
+
 from audio.tts import text_to_speech
 
 

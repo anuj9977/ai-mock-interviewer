@@ -1,31 +1,42 @@
-# API Backend
+# # API Backend
+# fastapi
+# uvicorn
+
+# # LangChain Core
+# langchain
+# langchain-community
+# langchain-core
+
+
+# # HuggingFace
+# transformers>=4.41.0
+
+# huggingface_hub
+# langchain-huggingface
+# torch
+
+# # Audio (Speech to Text)
+# openai-whisper
+
+# # Audio (Text to Speech)
+# gTTS
+
+# # Utilities
+# python-dotenv
+# pydantic
+# requests
+# streamlit
+# python-multipart
+# soundfile 
+# numpy
+
 fastapi
 uvicorn
-
-# LangChain Core
 langchain
-langchain-community
-langchain-core
-
-
-# HuggingFace
-transformers>=4.41.0
-
-huggingface_hub
 langchain-huggingface
-torch
-
-# Audio (Speech to Text)
-openai-whisper
-
-# Audio (Text to Speech)
-gTTS
-
-# Utilities
 python-dotenv
-pydantic
 requests
-streamlit
+gtts
 python-multipart
-soundfile 
 numpy
+streamlit
